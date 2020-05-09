@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\hanwei\desktop\作业\c语言实验\asm\accountsystem\main.c(8): warning C4013: “initCardList”未定义；假设外部返回 int
+c:\users\hanwei\desktop\作业\c语言实验\asm\accountsystem\main.c(35): warning C4013: “statistics”未定义；假设外部返回 int
+  AccountSystem.vcxproj -> C:\Users\hanwei\Desktop\作业\C语言实验\ASM\x64\Debug\ASM.exe
